@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# 편집기
+.vscode/
+.idea/
+*.swp
+
+# 비밀 정보 (이미지 생성 API 키 등)
+.env
+.env.*
+
+# 작업용 원본·임시 파일 (공개 저장소에는 webp만 올린다)
+*.png
+*.jpg
+*.jpeg
+*.psd
+*.tmp
+_work/
+_temp/
+poster/
+
